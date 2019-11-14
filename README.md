@@ -6,6 +6,8 @@
 
 [ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus)
 
+[chinese_chatbot_corpus](https://github.com/codemayq/chinese_chatbot_corpus/)
+
 [ChineseNLPCorpus](https://github.com/SophonPlus/ChineseNlpCorpus)
 
 [yongfengDataset](http://yongfeng.me/dataset/)
