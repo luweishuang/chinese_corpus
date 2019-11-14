@@ -10,4 +10,4 @@
 
 [yongfengDataset](http://yongfeng.me/dataset/)
 
-[hmlDataset](http://coai.cs.tsinghua.edu.cn/hml/dataset//)
+[hmlDataset](http://coai.cs.tsinghua.edu.cn/hml/dataset/)
