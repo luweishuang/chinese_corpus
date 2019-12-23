@@ -4,7 +4,7 @@
 ### 参考链接
 [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
 
-[ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus)
+[中文自然语言处理数据集](https://github.com/InsaneLife/ChineseNLPCorpus)
 
 [chinese_chatbot_corpus](https://github.com/codemayq/chinese_chatbot_corpus/)
 
