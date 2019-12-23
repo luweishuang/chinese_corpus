@@ -2,7 +2,7 @@
 中文语料
 
 ### 参考链接
-[nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
+[大规模中文自然语言处理语料(json版)](https://github.com/brightmart/nlp_chinese_corpus)
 
 [中文自然语言处理数据集](https://github.com/InsaneLife/ChineseNLPCorpus)
 
